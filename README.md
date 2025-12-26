@@ -1,6 +1,6 @@
 IMGUI for ConquerOnline (D3D9 & compatible w/ D3D8to9 on newer clients)
 
-# Based on co-stuff/posts: [Gitlab](https://gitlab.com/co-stuff/posts) / [Github](https://gitlab.com/co-stuff/posts)
+# Based on co-stuff/posts: [Gitlab](https://gitlab.com/co-stuff/posts) / [Github](https://github.com/co-stuff/posts)
 
 # Info
 * Tested on 6609 and latest game versions
