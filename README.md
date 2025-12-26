@@ -11,4 +11,3 @@ IMGUI for ConquerOnline (D3D9 & compatible w/ D3D8to9 on newer clients)
 Known issues:
 * Using the og windows (parent/child) from the game may be a little silly, this leads to wrong functionality of ImGui_ImplWin32_WndProcHandler
 * WndProc isnt getting correctly keys (only mouse), you have to map keys w/ other function
-* Old imgui version...
